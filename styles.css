@@ -1,0 +1,14 @@
+.navbar1 {
+   width:100%;
+  }
+  .audio-form{
+    border:5px solid black;
+    width:80px;
+    height:80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  #form{
+    opacity:0;
+  }
